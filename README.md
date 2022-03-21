@@ -1,10 +1,15 @@
-### Hire me 👋
+### How to reach me 👋
 
 Website: <a href="https://kentaro.trustsdev.com/" target="blank">https://kentaro.trustsdev.com</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>
 Resume: <a href="https://resume.io/r/Ycz7zlA17" target="blank">https://resume.io/r/Ycz7zlA17</a><br/>
 Email: <a href="mailto:qteeprograming@gmail.com" target="blank">qteeprograming@gmail.com</a><br/>
 Phone number: +1 2012049170<br/>
+
+In my github, there are only some limited public sources.<br/>
+There are many private sources rather than public ones because I signed NDAs with old clients.<br/>
+For more details about my all sources, I can show everything in screensharing.<br/>
+Thank you.<br/>
 
 <!--
 **BestItPartner/BestItPartner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

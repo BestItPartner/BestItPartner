@@ -7,7 +7,7 @@ Email: <a href="mailto:qteeprograming@gmail.com" target="blank">qteeprograming@g
 Phone number: +1 2012049170<br/>
 
 In my github, there are only some limited public sources.<br/>
-There are many private sources rather than public ones because I signed NDAs with old clients.<br/>
+But almost important sources are privates because I signed NDAs with old clients.<br/>
 For more details about my all sources, I can show everything in screensharing.<br/>
 Thank you.<br/>
 

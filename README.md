@@ -1,6 +1,5 @@
 ### How to reach me 👋
 
-Website: <a href="https://kentaro.trustsdev.com/" target="blank">https://kentaro.trustsdev.com</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>
 Resume: <a href="https://resume.io/r/Ycz7zlA17" target="blank">https://resume.io/r/Ycz7zlA17</a><br/>
 Email: <a href="mailto:qteeprograming@gmail.com" target="blank">qteeprograming@gmail.com</a><br/>

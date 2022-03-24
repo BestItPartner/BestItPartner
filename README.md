@@ -1,3 +1,10 @@
+### Highly Professional Blockchain Developer
+Highly professional blockchain developer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. <br/>
+Strong experience in EVM-compatible smart contracts development. <br/>
+Demonstrated success developing and seamlessly executing smart contracts in complex NFTs and DeFi Ecosystem. <br/>
+Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. <br/>
+Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain , Polygon and Avalanche.<br/>
+
 ### How to reach me 👋
 
 LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>

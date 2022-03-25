@@ -7,14 +7,14 @@ Expertise includes developing and auditing blockchain smart contracts with vario
 
 ### How to reach me 👋
 
-LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>
-Resume: <a href="https://resume.io/r/Ycz7zlA17" target="blank">https://resume.io/r/Ycz7zlA17</a><br/>
-Email: <a href="mailto:qteeprograming@gmail.com" target="blank">qteeprograming@gmail.com</a><br/>
+LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="_blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>
+Resume: <a href="https://resume.io/r/Ycz7zlA17" target="_blank">https://resume.io/r/Ycz7zlA17</a><br/>
+Email: <a href="mailto:qteeprograming@gmail.com" target="_blank">qteeprograming@gmail.com</a><br/>
 Phone number: +1 2012049170<br/>
 
 In my github, there are only some limited public sources.<br/>
 But almost important sources are privates because I signed NDAs with old clients.<br/>
-For more details about my all sources, I can show everything in screensharing.<br/>
+For more details about my all sources, I can show everything in shared screen using Google meet or Zoom.<br/>
 Thank you.<br/>
 
 <!--

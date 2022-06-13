@@ -5,13 +5,7 @@ Demonstrated success developing and seamlessly executing smart contracts in comp
 Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. <br/>
 Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain , Polygon and Avalanche.<br/>
 
-### How to reach me 👋
-
-LinkedIn: <a href="https://www.linkedin.com/in/kentaro-namba-0918371a3/" target="_blank">https://www.linkedin.com/in/kentaro-namba-0918371a3</a><br/>
-Resume: <a href="https://resume.io/r/Ycz7zlA17" target="_blank">https://resume.io/r/Ycz7zlA17</a><br/>
-Email: <a href="mailto:qteeprograming@gmail.com" target="_blank">qteeprograming@gmail.com</a><br/>
-Phone number: +1 2012049170<br/>
-
+### How to see all repositories 👋
 In my github, there are only some limited public sources.<br/>
 But almost important sources are privates because I signed NDAs with old clients.<br/>
 For more details about my all sources, I can show everything in shared screen using Google meet or Zoom.<br/>

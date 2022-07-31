@@ -1,9 +1,10 @@
-### Highly Professional Blockchain Developer
-Highly professional blockchain developer with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. <br/>
-Strong experience in EVM-compatible smart contracts development. <br/>
-Demonstrated success developing and seamlessly executing smart contracts in complex NFTs and DeFi Ecosystem. <br/>
-Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control and an understanding of emerging technology. <br/>
-Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Binance Smart Chain , Polygon and Avalanche.<br/>
+### Senior Blockchain Engineer
+Senior blockchain engineer with amazing accomplishments applying high-security smart contracts on the various blockchain networks. <br/>
+I have 5 years of experience in EVM-compatible chains and solana smart contracts development. <br/>
+Have developed and deployed smart contracts in complex NFTs and DeFi Ecosystem. <br/>
+Strong computer science fundamentals such as data structure and algorithms, distributed systems. <br/>
+Smart contract code coverage and audit using security knowledge and skills. <br/>
+Finally, 4 years of experience in Web3 and MERN stack using web3.js, ethers.js, react.js, express.js, and AWS components. <br/>
 
 ### How to see all repositories 👋
 In my github, there are only some limited public sources.<br/>

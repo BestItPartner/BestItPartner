@@ -7,9 +7,7 @@ Smart contract code coverage and audit using security knowledge and skills. <br/
 Finally, 4 years of experience in Web3 and MERN stack using web3.js, ethers.js, react.js, express.js, and AWS components. <br/>
 
 ### How to see all repositories 👋
-In my github, there are only some limited public sources.<br/>
-But almost important sources are privates because I signed NDAs with old clients.<br/>
-For more details about my all sources, I can show everything in shared screen using Google meet or Zoom.<br/>
+If anyone wants more details about my private repos, I can share and explain everything through shared screen in the video meeting.<br/>
 Thank you.<br/>
 
 <!--

@@ -4,7 +4,7 @@ I have 5 years of experience in EVM-compatible chains and solana smart contracts
 Have developed and deployed smart contracts in complex NFTs and DeFi Ecosystem. <br/>
 Strong computer science fundamentals such as data structure and algorithms, distributed systems. <br/>
 Smart contract code coverage and audit using security knowledge and skills. <br/>
-Finally, 4 years of experience in Web3 and MERN stack using web3.js, ethers.js, react.js, express.js, and AWS components. <br/>
+Finally, 10 years of experience in Web3 and MERN stack using web3.js, ethers.js, react.js, express.js, and AWS components. <br/>
 
 ### How to see all repositories 👋
 If anyone wants more details about my private repos, I can share and explain everything through shared screen in the video meeting.<br/>

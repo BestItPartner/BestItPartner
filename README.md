@@ -1,6 +1,6 @@
 ### Senior Blockchain Engineer
 Senior blockchain engineer with amazing accomplishments applying high-security smart contracts on the various blockchain networks. <br/>
-I have 5 years of experience in EVM-compatible chains and solana smart contracts development. <br/>
+I have 6 years of experience in EVM-compatible chains and solana smart contracts development. <br/>
 Have developed and deployed smart contracts in complex NFTs and DeFi Ecosystem. <br/>
 Strong computer science fundamentals such as data structure and algorithms, distributed systems. <br/>
 Smart contract code coverage and audit using security knowledge and skills. <br/>
